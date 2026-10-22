@@ -1,4 +1,4 @@
-# Kalkulator Javascript (8th Anniversary Modern Edition) 🚀
+# Kalkulator Javascript 🚀
 
 [![Pure Vanilla](https://img.shields.io/badge/Stack-Vanilla%20HTML%20%7C%20CSS%20%7C%20JS-F7DF1E?logo=javascript&logoColor=black)](#)
 [![Zero Dependencies](https://img.shields.io/badge/Dependencies-Zero%20(Pure%20Web%20API)-brightgreen)](#)
