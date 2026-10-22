@@ -79,4 +79,4 @@ calculator/
 
 ---
 
-Dibuat dengan ❤️ oleh **[iczombie4](https://github.com/iczombie4)** &bull; Refactored & Enhanced.
+Author: [iczombie4](https://github.com/iczombie4)
