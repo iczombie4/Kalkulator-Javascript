@@ -76,7 +76,3 @@ calculator/
 │   └── app.js        # Logika aplikasi ES6+, audio synthesis & state management
 └── README.md         # Dokumentasi proyek
 ```
-
----
-
-Author: [iczombie4](https://github.com/iczombie4)
