@@ -4,7 +4,7 @@
 [![Zero Dependencies](https://img.shields.io/badge/Dependencies-Zero%20(Pure%20Web%20API)-brightgreen)](#)
 [![Theme Support](https://img.shields.io/badge/Theme-Dark%20%26%20Light%20Mode-6366f1)](#)
 
-> **"Project awal 8 tahun lalu (2016) yang dirombak total menjadi kalkulator modern, elegan, dan aman di tahun 2026."**
+> **Project awal 8 tahun lalu (2016) yang dirombak total menjadi kalkulator modern di tahun 2026.**
 
 Aplikasi kalkulator multi-input berbasis web yang mempertahankan filosofi dan alur kerja konsep original (input nilai terpisah dengan validasi verifikasi checkbox), namun dirombak total menggunakan standar web modern tanpa dependensi berat.
 
